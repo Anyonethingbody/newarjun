@@ -1,0 +1,80 @@
+.head{
+ text-align: center;
+ font-size: 40px;
+
+ 
+ font-style: inherit, serif;}
+
+ .est{
+      font-style: italic;
+      text-align: center;
+      font-size: small;
+ }
+hr{
+      background-color: black;
+      height: 5px;
+      border-color: bisque;
+}
+
+h2{
+   text-align: center;
+   font-size: 35px;
+   
+}
+.info{
+      text-align: center;
+      margin-left: -50px;
+      margin-right: -50px;
+      margin-top: auto;
+      margin-bottom: auto;
+      padding:90px;
+}
+.he{
+      display: inline-block;
+      font-size: 20px;
+}
+
+
+
+.le{
+      font-size: 30px;
+      text-align: center;
+      font-style: italic;
+
+}
+.chu{
+      margin-left: 30%;
+      margin-right: 30%;
+       
+      margin-top: 20px;
+}
+input{
+      margin-top: 20px;
+      color: magenta;
+      background-color:  black;
+}
+button{
+      margin-left: 10px;
+
+}
+
+a:hover{
+      color: blue;
+}
+a{
+      color: magenta ;
+}
+button{
+      color: magenta;
+      background-color: black;
+}
+body {
+      background-image: url(https://iili.io/2ajcNwX.jpg);
+      color: aliceblue;
+
+}
+.head,.est{
+      background-image: url(https://iili.io/2ajReRe.png);
+      margin-bottom: -10px;
+      
+}
